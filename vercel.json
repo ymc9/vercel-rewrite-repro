@@ -1,5 +1,4 @@
 {
-  "trailingSlash": true,
   "rewrites": [
     { "source": "/", "destination": "/redirected.html" },
     { "source": "/hello", "destination": "/redirected.html" }
